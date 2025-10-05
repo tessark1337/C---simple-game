@@ -1,0 +1,14 @@
+d:\vscode\vscodeProjects\cSharp1\cSharp1\bin\Debug\net9.0\cSharp1.exe
+d:\vscode\vscodeProjects\cSharp1\cSharp1\bin\Debug\net9.0\cSharp1.deps.json
+d:\vscode\vscodeProjects\cSharp1\cSharp1\bin\Debug\net9.0\cSharp1.runtimeconfig.json
+d:\vscode\vscodeProjects\cSharp1\cSharp1\bin\Debug\net9.0\cSharp1.dll
+d:\vscode\vscodeProjects\cSharp1\cSharp1\bin\Debug\net9.0\cSharp1.pdb
+d:\vscode\vscodeProjects\cSharp1\cSharp1\obj\Debug\net9.0\cSharp1.GeneratedMSBuildEditorConfig.editorconfig
+d:\vscode\vscodeProjects\cSharp1\cSharp1\obj\Debug\net9.0\cSharp1.AssemblyInfoInputs.cache
+d:\vscode\vscodeProjects\cSharp1\cSharp1\obj\Debug\net9.0\cSharp1.AssemblyInfo.cs
+d:\vscode\vscodeProjects\cSharp1\cSharp1\obj\Debug\net9.0\cSharp1.csproj.CoreCompileInputs.cache
+d:\vscode\vscodeProjects\cSharp1\cSharp1\obj\Debug\net9.0\cSharp1.dll
+d:\vscode\vscodeProjects\cSharp1\cSharp1\obj\Debug\net9.0\refint\cSharp1.dll
+d:\vscode\vscodeProjects\cSharp1\cSharp1\obj\Debug\net9.0\cSharp1.pdb
+d:\vscode\vscodeProjects\cSharp1\cSharp1\obj\Debug\net9.0\cSharp1.genruntimeconfig.cache
+d:\vscode\vscodeProjects\cSharp1\cSharp1\obj\Debug\net9.0\ref\cSharp1.dll
